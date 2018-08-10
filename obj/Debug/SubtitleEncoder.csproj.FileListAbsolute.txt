@@ -1,0 +1,9 @@
+c:\users\onur_\documents\visual studio 2015\Projects\SubtitleEncoder\SubtitleEncoder\bin\Debug\SubtitleEncoder.exe.config
+c:\users\onur_\documents\visual studio 2015\Projects\SubtitleEncoder\SubtitleEncoder\bin\Debug\SubtitleEncoder.exe
+c:\users\onur_\documents\visual studio 2015\Projects\SubtitleEncoder\SubtitleEncoder\bin\Debug\SubtitleEncoder.pdb
+c:\users\onur_\documents\visual studio 2015\Projects\SubtitleEncoder\SubtitleEncoder\obj\Debug\SubtitleEncoder.csprojResolveAssemblyReference.cache
+c:\users\onur_\documents\visual studio 2015\Projects\SubtitleEncoder\SubtitleEncoder\obj\Debug\SubtitleEncoder.Form1.resources
+c:\users\onur_\documents\visual studio 2015\Projects\SubtitleEncoder\SubtitleEncoder\obj\Debug\SubtitleEncoder.Properties.Resources.resources
+c:\users\onur_\documents\visual studio 2015\Projects\SubtitleEncoder\SubtitleEncoder\obj\Debug\SubtitleEncoder.csproj.GenerateResource.Cache
+c:\users\onur_\documents\visual studio 2015\Projects\SubtitleEncoder\SubtitleEncoder\obj\Debug\SubtitleEncoder.exe
+c:\users\onur_\documents\visual studio 2015\Projects\SubtitleEncoder\SubtitleEncoder\obj\Debug\SubtitleEncoder.pdb
